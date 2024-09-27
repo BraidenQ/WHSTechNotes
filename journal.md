@@ -31,3 +31,10 @@ NONE OF THEM
 # September 23, 2024
 
 ez no diff
+
+# september 27, 2024
+
+1. sphero coding because it was dumb and mindnumbing
+2. It made me want to destroy coding as a whole
+3. sphero because i couuld force it to bang its head against the wall repeatidly.
+4. you could probably do more with python programming than the simple block sphero coding
