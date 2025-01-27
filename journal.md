@@ -38,3 +38,10 @@ ez no diff
 2. It made me want to destroy coding as a whole
 3. sphero because i couuld force it to bang its head against the wall repeatidly.
 4. you could probably do more with python programming than the simple block sphero coding
+
+# January 27, 2025
+
+| Name        | Car         | Mistake       |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
