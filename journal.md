@@ -41,7 +41,10 @@ ez no diff
 
 # January 27, 2025
 
-| Name        | Car         | Mistake       |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Name        | Car             | Mistake                  |
+| :---        |     :----:      |                     ---: |
+| Jimmmy      | Honda Civic     | Drilled Hole In Gas Tank |
+| Kayla       | GMC Sierra      | Fixed Wrong Problem      |
+| Bart        | Toyota Corolla	| Left Stains On Carpet    |
+| Harrison    | Subaru Forester	| Left The Oil Cap Off     |
+
