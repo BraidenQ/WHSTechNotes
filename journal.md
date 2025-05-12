@@ -48,3 +48,6 @@ ez no diff
 | Bart        | Toyota Corolla	| Left Stains On Carpet    |
 | Harrison    | Subaru Forester	| Left The Oil Cap Off     |
 
+# may 12, 2025
+
+if you blow up your chromebook like an idiot you'll have to pay to replace it and you can be charged with the damages.
