@@ -51,3 +51,7 @@ ez no diff
 # may 12, 2025
 
 if you blow up your chromebook like an idiot you'll have to pay to replace it and you can be charged with the damages.
+
+# september 15, 2025
+
+My idea is to stop the real world problem of people not learning because of them using ai for school. I think you could fix this by coding ai so if someone tries to make it do their work for them, the ai tells them to pick up a book before deleting system 32 from their computer. This should fix the concern of people using ai for their work.
