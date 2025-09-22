@@ -1,4 +1,4 @@
-# September 10, 2024
+2# September 10, 2024
 
 skibidi  heh... skibidi
 
@@ -55,3 +55,7 @@ if you blow up your chromebook like an idiot you'll have to pay to replace it an
 # september 15, 2025
 
 My idea is to stop the real world problem of people not learning because of them using ai for school. I think you could fix this by coding ai so if someone tries to make it do their work for them, the ai tells them to pick up a book before deleting system 32 from their computer. This should fix the concern of people using ai for their work.
+
+# september 22, 2025
+
+A roblox IKEA store sounds rediculous, but i wouldnt be surprised if it worked. Many roblox players and groups have come together to create digital stores and shops with employees and everything just to sell items that cost some robux, or even nothing at all if you just wanna roleplay. This does show that people dont hate the idea of spending their time working for a roblox store, or shopping there, so imagine if they were getting paid with real money and could buy real items inside the store. I do belive this idea can work, whether it will work is still too risky to bet on though.
