@@ -59,3 +59,11 @@ My idea is to stop the real world problem of people not learning because of them
 # september 22, 2025
 
 A roblox IKEA store sounds rediculous, but i wouldnt be surprised if it worked. Many roblox players and groups have come together to create digital stores and shops with employees and everything just to sell items that cost some robux, or even nothing at all if you just wanna roleplay. This does show that people dont hate the idea of spending their time working for a roblox store, or shopping there, so imagine if they were getting paid with real money and could buy real items inside the store. I do belive this idea can work, whether it will work is still too risky to bet on though.
+
+# october 20, 2025
+
+| Name        | Class           | Seat   |
+| :---        |     :----:      |   ---: |
+| Franklin    | Second          | 91A    |
+| Hardeep     | Third           | 61F    |
+| Marla       | First           | 35B    |
