@@ -67,3 +67,11 @@ A roblox IKEA store sounds rediculous, but i wouldnt be surprised if it worked. 
 | Franklin    | Second          | 91A    |
 | Hardeep     | Third           | 61F    |
 | Marla       | First           | 35B    |
+
+# october 27, 2025
+
+| Name        | Main Dish        | Dessert           |
+| :---        |      :----:      |              ---: |
+| Fiona       | Gado Gado        | Creme Brulee      |
+| Tobias      | Shrimp Ceviche   | French Apple Cake |
+| Leanne      | Beef Wellington  | Raspberry Tiramisu|
