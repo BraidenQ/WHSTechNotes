@@ -79,3 +79,7 @@ A roblox IKEA store sounds rediculous, but i wouldnt be surprised if it worked. 
 # november 3, 2025
 
 If SNAP runs out of funding, many low income people and families will go without food, as they cant always afford full meals, or even not afford food at all. Apps and websites can possibly be of assistance, allowing people to sign up for food banks online, find nearby foodbanks, and potentially have food delivered. Of course, this isnt a perfect fix, many families and people may not be able to afford internet, or electronic communication devices in general. If i was a designer for a solution, I'd make the "gimme food app loserrrrrrrrrrrrrrr" app. Itd be an app that allows low income people to order meals straight to their door, and if they dont have a device or intetnet, i dunno thyen.
+
+# november 17, 2025
+
+I am indeed looking forward to thanksgiving break. I've been so tired constantly for so long, a real break would be amazing.
