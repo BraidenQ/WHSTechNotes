@@ -83,3 +83,7 @@ If SNAP runs out of funding, many low income people and families will go without
 # november 17, 2025
 
 I am indeed looking forward to thanksgiving break. I've been so tired constantly for so long, a real break would be amazing.
+
+# december 16, 2025
+
+This christmas break, i plan to relax, eat candy, sleep, play roblox, draw, and best of all, have a sleepover with my cousin.
