@@ -87,3 +87,7 @@ I am indeed looking forward to thanksgiving break. I've been so tired constantly
 # december 16, 2025
 
 This christmas break, i plan to relax, eat candy, sleep, play roblox, draw, and best of all, have a sleepover with my cousin.
+
+# janurary 6, 2026
+
+Over this christmas break, i spent most of my time using technology. Over the break, i spent quite a lot of time on my phone, texting my friends and listening to music on spotify. Although, I by far spent most my time bullying kids in competitive roblox games.
