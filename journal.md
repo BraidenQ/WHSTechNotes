@@ -91,3 +91,7 @@ This christmas break, i plan to relax, eat candy, sleep, play roblox, draw, and 
 # janurary 6, 2026
 
 Over this christmas break, i spent most of my time using technology. Over the break, i spent quite a lot of time on my phone, texting my friends and listening to music on spotify. Although, I by far spent most my time bullying kids in competitive roblox games.
+
+# janurary 12, 2026
+
+Autcraft was created as a safe space and private minecraft server for autistic children and their families to enjoy the game and interact. Safe spaces like this one are necessary, as the internet can often be a very hostile and unwelcoming place. It is the creator's of these safe space's jobs to protect and moderate them as they advertise it as safe and because these spaces can quickly grow large amount of young, vulnerable people.
