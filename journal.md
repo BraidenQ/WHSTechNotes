@@ -95,3 +95,7 @@ Over this christmas break, i spent most of my time using technology. Over the br
 # january 12, 2026
 
 Autcraft was created as a safe space and private minecraft server for autistic children and their families to enjoy the game and interact. Safe spaces like this one are necessary, as the internet can often be a very hostile and unwelcoming place. It is the creator's of these safe space's jobs to protect and moderate them as they advertise it as safe and because these spaces can quickly grow large amount of young, vulnerable people.
+
+# january 29, 2026
+
+This week, I took the MAP test. It showed me my test scores, and I was within the goal for each one, so i think i did good. I dont think i need to study to do better because i already did great.
