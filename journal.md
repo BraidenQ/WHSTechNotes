@@ -99,3 +99,11 @@ Autcraft was created as a safe space and private minecraft server for autistic c
 # january 29, 2026
 
 This week, I took the MAP test. It showed me my test scores, and I was within the goal for each one, so i think i did good. I dont think i need to study to do better because i already did great.
+
+# february 2, 2026
+
+Personal hygiene and self-care are important in shared environments because you need to be mindful of the other people there, I'm sure smelling awful all the time is a surefire way to get you kicked off the lease. 
+You should be mindful of your behavior around others, as things like loud conversations, strong smells, and being distracting in general can quickly become distracting to other's abilities to focus or make them uncomfortable.
+Reasonable expectations in shared spaces include hygiene, keeping spaces clean, appropriate volume, and mindful behavior.
+Self-regulation is important in school and future jobs as, if you cant regulate yourself, it'll quickly become a problem for you and the people around you.
+I should improve my breathing because i forget to breathe sometimes and i dont think people like being around corpses.
