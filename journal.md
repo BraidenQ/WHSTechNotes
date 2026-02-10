@@ -107,3 +107,7 @@ You should be mindful of your behavior around others, as things like loud conver
 Reasonable expectations in shared spaces include hygiene, keeping spaces clean, appropriate volume, and mindful behavior.
 Self-regulation is important in school and future jobs as, if you cant regulate yourself, it'll quickly become a problem for you and the people around you.
 I should improve my breathing because i forget to breathe sometimes and i dont think people like being around corpses.
+
+# february 10, 2026
+
+1. I dont enjoy football because i dont personally find sports entertaining. 2. I didnt really watch the super bowl, and only tuned in to watch the half time show with bad bunny. 3. I think the bad bunny half time show was awesome but i didnt watch anything else so i dont have any comment on the rest of the super bowl.
