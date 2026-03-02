@@ -111,3 +111,23 @@ I should improve my breathing because i forget to breathe sometimes and i dont t
 # february 10, 2026
 
 1. I dont enjoy football because i dont personally find sports entertaining. 2. I didnt really watch the super bowl, and only tuned in to watch the half time show with bad bunny. 3. I think the bad bunny half time show was awesome but i didnt watch anything else so i dont have any comment on the rest of the super bowl.
+
+# march 2, 2026
+
+Job #1
+Company:
+Job Title:
+Education Required:
+Experience Required:
+Skills / Tools / Languages:
+Certifications (if any):
+What the job does (1–2 sentences):
+
+Job #2
+Company:
+Job Title:
+Education Required:
+Experience Required:
+Skills / Tools / Languages:
+Certifications (if any):
+What the job does (1–2 sentences):
