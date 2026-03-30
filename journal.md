@@ -131,3 +131,7 @@ Experience Required:
 Skills / Tools / Languages:
 Certifications (if any):
 What the job does (1–2 sentences):
+
+# march 30, 2026
+
+An upset in sports is when a lower-seeded team beats a higher-seeded team. This can happen due to issues with the higher-seeded team, or the lower-seeded team just getting lucky. 
