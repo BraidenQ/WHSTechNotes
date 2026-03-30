@@ -134,4 +134,4 @@ What the job does (1–2 sentences):
 
 # march 30, 2026
 
-An upset in sports is when a lower-seeded team beats a higher-seeded team. This can happen due to issues with the higher-seeded team, or the lower-seeded team just getting lucky. 
+An upset in sports is when a lower-seeded team beats a higher-seeded team. This can happen due to issues with the higher-seeded team, or the lower-seeded team just getting lucky. Data and predictions can get close to accurate, but you can never know if it is definitively correct until after it has already happen. There are just too many variables to be completely sure, people can get injured, accidents can happen, a player can simply make a mistake, and many more things can happen. Computers are heavily limited by this, as because of it, the computer can never give you a definitive answer that wouldnt be a simple guess.
