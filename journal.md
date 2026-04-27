@@ -151,3 +151,7 @@ I dont think modern technology is equipped to handle extended stays on the moon 
 # april 20, 2026
 
 I think Ai creating music is quite trashy, and couldn't ever match up to human made music, especially considering it has to steal from human music to even attempt.
+
+# april 27, 2026
+
+This weekend i payed attention to looking at Ethan's gyatt on facetime. Technology influenced this because the technology of iphones and facetime allowed me to see his gyatt in 4k ultra hd high resolution.
