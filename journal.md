@@ -155,3 +155,7 @@ I think Ai creating music is quite trashy, and couldn't ever match up to human m
 # april 27, 2026
 
 This weekend i payed attention to looking at Ethan's gyatt on facetime. Technology influenced this because the technology of iphones and facetime allowed me to see his gyatt in 4k ultra hd high resolution.
+
+# may, 6, 2026
+
+later
