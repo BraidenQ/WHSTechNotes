@@ -158,4 +158,7 @@ This weekend i payed attention to looking at Ethan's gyatt on facetime. Technolo
 
 # may, 6, 2026
 
-later
+I give ai systems data when i ask google gemini to play guessing games with me cuz im bored.
+
+# may, 11, 2026
+
