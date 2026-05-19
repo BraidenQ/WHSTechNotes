@@ -162,3 +162,8 @@ I give ai systems data when i ask google gemini to play guessing games with me c
 
 # may, 11, 2026
 
+I believe throughout this school year, i have heavily improved on my decision making.
+
+# may, 19, 2026
+
+If i had to describe my friend Ethan to the police if he went missing, I'd tell them it was a horizontally wide boy with acne whos always wearing one of the same two hoodies.
